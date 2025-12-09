@@ -1,3 +1,6 @@
+# Imperative Algorithms Practice
+# Francisco Marques - Biomedical Engineering @ IST
+# December 2024
 def maior2(w):
     maior=w[0]
     segundo=w[1]
