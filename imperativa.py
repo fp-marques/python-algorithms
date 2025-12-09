@@ -15,7 +15,7 @@ def maior2(w):
 print(maior2([1,4,2,3,5]))
 #####################################
 def is_palindrome(s):
-    strip.s
+    s = s.strip()  # Remove espaços no início/fim
     i=0
     j=len(s)-1
     while i<j:
